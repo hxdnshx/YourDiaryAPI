@@ -1,0 +1,3 @@
+[submodule "thirdparty/HttpHelper"]
+	path = thirdparty/HttpHelper
+	url = https://github.com/hxdnshx/HttpHelper.git
